@@ -1,0 +1,427 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app1 {
+    width: 1519px;
+    height: 760px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: rgba(28, 30, 83, 1);
+}
+
+.nav1 {
+    display: flex;
+    padding: 20px 100px;
+}
+
+.menu ul {
+    display: flex;
+    margin: 5px 320px;
+    gap: 50px;
+}
+
+.menu ul a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+.menu ul li {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: right;
+    color: aliceblue;
+    list-style: none;
+}
+
+.btn1 {
+    width: 185px;
+    height: 60px;
+    top: 16px;
+    left: 1255px;
+    gap: 10px;
+    border-radius: 41px 41px 41px 41px;
+    background-color: rgba(28, 30, 83, 1);
+    opacity: 0px;
+    color: aliceblue;
+    border: 2px solid rgba(244, 246, 252, 0.2);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.center1 {
+    display: flex;
+    gap: 150px;
+}
+
+.btn2 {
+    width: 230px;
+    height: 64px;
+    top: 568px;
+    left: 160px;
+    padding: 16px 56px 16px 56px;
+    gap: 10px;
+    border-radius: 41px 41px 41px 41px;
+    opacity: 0px;
+    border: none;
+    background-color: rgba(252, 217, 128, 1);
+    color: rgba(27, 28, 43, 1);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.text1 h1 {
+    font-family: Poppins;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74px;
+    color: aliceblue;
+}
+
+.text1 p {
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: rgba(244, 246, 252, 0.2);
+}
+
+.text1 {
+    padding: 100px 90px;
+}
+
+.image1 {
+    margin: 120px 0px;
+}
+
+.image2 {
+    width: 1519px;
+    height: 760px;
+}
+
+.image3 {
+    width: 1519px;
+    height: 760px;
+}
+
+.text4 h1 {
+    text-align: center;
+    color: rgba(40, 41, 56, 1);
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    margin: 50px 0px;
+}
+
+.app4 {
+    width: 1519px;
+    height: 1000px;
+
+    background-color: rgba(244, 246, 252, 1);
+}
+
+.box1 {
+    width: 405px;
+    height: 316px;
+    top: 2812px;
+    left: 160px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: rgba(255, 255, 255, 1);
+    padding: 50px 20px;
+
+}
+
+.box1 h1 {
+    color: rgba(40, 41, 56, 1);
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+
+}
+
+.box1 p {
+    padding: 50px 0px;
+    color: rgba(40, 41, 56, 1);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+
+}
+
+
+
+.box2 {
+    width: 405px;
+    height: 316px;
+    top: 2812px;
+    left: 160px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: rgba(255, 255, 255, 1);
+    padding: 50px 20px;
+
+}
+
+.box2 h1 {
+    color: rgba(40, 41, 56, 1);
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+
+}
+
+.box2 p {
+    padding: 50px 0px;
+    color: rgba(40, 41, 56, 1);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+
+}
+
+.box3 {
+    width: 405px;
+    height: 316px;
+    top: 2812px;
+    left: 160px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: rgba(255, 255, 255, 1);
+    padding: 50px 20px;
+
+}
+
+.box3 h1 {
+    color: rgba(40, 41, 56, 1);
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+
+}
+
+.box3 p {
+    padding: 50px 0px;
+    color: rgba(40, 41, 56, 1);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+
+}
+
+.container {
+    display: flex;
+    margin: 0px 100px;
+    gap: 50px;
+}
+
+.container2 {
+    display: flex;
+    margin: 30px 100px;
+    gap: 50px;
+}
+
+.app5 {
+    display: flex;
+    width: 1519px;
+    height: 300px;
+    padding: 50px 100px;
+    gap: 200px;
+}
+
+.text5 h1 {
+
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+    text-align: left;
+    color: rgba(40, 41, 56, 1);
+}
+
+.text5 p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(40, 41, 56, 1);
+}
+
+.text6 h1 {
+    padding: 20px 0px;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: left;
+    color: rgba(40, 41, 56, 1);
+}
+
+.image6 {
+    padding: 50px 0px;
+    width: 1519px;
+    height: 760px;
+}
+
+.app6 {
+    height: 800px;
+}
+
+.app7 {
+    width: 1519px;
+    height: 760px;
+}
+
+.sign {
+    background-color: rgba(28, 30, 83, 1);
+    width: 624px;
+    height: 550px;
+    top: 4895px;
+    left: 814px;
+    gap: 0px;
+    opacity: 0px;
+    padding: 50px 50px;
+}
+
+.center2 {
+    display: flex;
+    padding: 0px 100px;
+    gap: 100px;
+}
+
+.text7 h1 {
+    font-family: Poppins;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74px;
+    text-align: left;
+}
+
+.text7 p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+}
+
+.sign h1 {
+    color: rgba(255, 255, 255, 1);
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: left;
+
+}
+
+.sign p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+.sign input {
+    width: 432px;
+    height: 64px;
+    top: 5151px;
+    left: 910px;
+    gap: 0px;
+    border-radius: 8px 8px 8px 8px;
+    border: 1.5px solid rgba(255, 255, 255, 0.05);
+    opacity: 0px;
+    background: rgba(28, 30, 83, 1);
+    padding: 0px 20px;
+}
+
+.btn7 {
+    width: 432px;
+    height: 64px;
+    top: 5414px;
+    left: 910px;
+    padding: 15px 51px 15px 51px;
+    gap: 10px;
+    border-radius: 41px 41px 41px 41px;
+    opacity: 0px;
+    border: none;
+    background-color: rgba(252, 217, 128, 1);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.image8 {
+    width: 1519px;
+    height: 760px;
+}
+
+.app9 {
+    width: 1519px;
+    height: 300px;
+    display: flex;
+    padding: 100px 100px;
+    gap: 500px;
+    background-color: rgba(28, 30, 83, 1);
+}
+
+.text8 h1 {
+
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+.text8 p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+.text9 h1 {
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+.text9 p {
+  
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
